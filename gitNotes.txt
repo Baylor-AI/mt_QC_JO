@@ -1,3 +1,15 @@
 git status
 git commit -m "Message" -m "detail message"
 
+Adding local folder to git
+1. Init git
+    git Init
+2. Git status 
+    git status
+    Add it to the file.
+3. We get error while pushing to github.
+    git remote add origin githubrepo link
+4. Git remote -v
+5. Upstream
+    git push -u origin master
+
