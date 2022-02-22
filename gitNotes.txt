@@ -21,6 +21,15 @@ Adding local folder to git
 7. Swtich between Branch
     git checkout "branchname"
 
+8. Check difference between two Branch
+9. git merge
+10. Didn't work on git push 
+    git push --set-upstream origin new-branch
+
+11. Delete Branch
+    git branch -d name
+
+
 
 
 
