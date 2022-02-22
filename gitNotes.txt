@@ -13,3 +13,15 @@ Adding local folder to git
 5. Upstream
     git push -u origin master
 
+
+6. Git Branching
+    6.1 git Branch
+    Creating a new Branch
+    git checkout -b "name of Branch"
+7. Swtich between Branch
+    git checkout "branchname"
+
+
+
+
+
