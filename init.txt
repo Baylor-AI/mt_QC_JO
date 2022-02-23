@@ -1,5 +1,3 @@
 This is to check if I am able to push to the github
 This is a try from old mac
 This is a check for push to both repo.
-Check for origin
-
