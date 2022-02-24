@@ -3,7 +3,7 @@
 ## Quantum NoteBook
 Some portion of the notebook might contain python solution for Wang intro to classical and quantum computing book.
 
-# ML Learning. \
+# ML Learning.
 The Machine Learning part of a repo is based on O'Reilly book by Geron, 2nd edition.
 The code is free available online. This is just for self learning.
 
