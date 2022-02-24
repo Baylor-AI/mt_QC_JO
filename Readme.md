@@ -1,9 +1,12 @@
-# ML Learning.
-
-Started with Orelly ML book.
+# Quantum ML.
+* The Quantum notebook contains a solution for Xandu quantum tutorial  notebook.
 ## Quantum NoteBook
+Some portion of the notebook might contain python solution for Wang intro to classical and quantum computing book.
 
-On the side note, I am also learning Quantum Notebook from Pennylane.
+# ML Learning. \
+The Machine Learning part of a repo is based on O'Reilly book by Geron, 2nd edition.
+The code is free available online. This is just for self learning.
+
 
 # Generate SSH key
 
