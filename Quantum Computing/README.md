@@ -8,7 +8,7 @@
 *Coding Support: Bikram Khanal*
 
 ## Contents
-1. [Instrucctions](#instructions)
+1. [Instructions](#instructions)
 1. [Introduction](#intro)
 1. [What does mean QC?](#wthQCmeans)
 1. [Expectations](#expectations)
